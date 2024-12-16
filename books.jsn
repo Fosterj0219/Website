@@ -1,5 +1,7 @@
 [
-  { "title": "MidTermProj", "author": "Jawan Foster", "description": "Java and MySQL Project" },
-  { "title": "Personal Website", "author": "Jawan Foster", "description": "HTML and CSS Project" },
-  { "title": "Other Cool Project", "author": "Unknown", "description": "Python-based application" }
+  { 
+    "Title": "Final Project for COSC 431",  
+    "Creator": "Jawan Foster",  
+    "Instructions": "Please click here to see my Github page, that has my Java and MySQL Project"  
+  }
 ]
